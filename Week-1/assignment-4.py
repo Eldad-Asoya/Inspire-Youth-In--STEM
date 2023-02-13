@@ -1,0 +1,8 @@
+print("Diamond assignment  ")
+print("      *********     ")
+print("    *************   ")
+print("     ***********    ")
+print("      *********     ")
+print("        *****       ")
+print("         ***        ")
+print("          *         ")
