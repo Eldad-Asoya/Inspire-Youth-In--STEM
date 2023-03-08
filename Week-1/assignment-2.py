@@ -1,6 +1,0 @@
-print("Create a logo with my name in it")
-print(" ===============================")
-print("[  ELDAD ENTERPRISES LIMITED   ]")
-print("[         SINCE 2005           ]")
-print("[  RELIABLE FAST SECURE REAL   ]")
-print("================================")
